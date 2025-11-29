@@ -1,0 +1,7 @@
+{
+  "name": "HeroGen: AI Cinematic Universe",
+  "description": "Transform yourself into a superhero in a blockbuster movie scene using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
